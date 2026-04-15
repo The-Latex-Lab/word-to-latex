@@ -2,7 +2,7 @@
 
 **Convert Word to LaTeX. Convert PDF to LaTeX. Format for Springer, Elsevier, IEEE, ACM, MDPI, and arXiv — submission-ready, guaranteed to compile.**
 
-A free, practical reference for PhD students, postdocs, and researchers who need clean LaTeX for journal submissions and university thesis formatting. No beginner tutorials. No filler. Just the exact workflows, template fixes, and error solutions that come up after you already know the basics.
+A free, practical reference for researchers, PhD students, and postdocs who need clean LaTeX for journal submissions and university thesis formatting. No beginner tutorials. No filler. Just the exact workflows, template fixes, and error solutions that come up after you already know the basics.
 
 Covers:
 - Word to LaTeX and DOCX to LaTeX conversion (Pandoc workflow + manual fixes)
