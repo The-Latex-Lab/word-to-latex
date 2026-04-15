@@ -1,10 +1,19 @@
-# Word To Latex: The Researcher's Guide to LaTeX Formatting
+# Word to LaTeX: The Researcher's Guide to LaTeX Formatting
 
-**Word-to-LaTeX Conversion, Pdf to Latex conversion. Journal Templates, Compilation Errors, and Thesis Formatting**
+**Convert Word to LaTeX. Convert PDF to LaTeX. Format for Springer, Elsevier, IEEE, ACM, MDPI, and arXiv — submission-ready, guaranteed to compile.**
 
-A free, practical guide for PhD students, postdocs, and academics who need to work with LaTeX for journal submissions and thesis formatting.
+A free, practical reference for PhD students, postdocs, and researchers who need clean LaTeX for journal submissions and university thesis formatting. No beginner tutorials. No filler. Just the exact workflows, template fixes, and error solutions that come up after you already know the basics.
 
-📄 **[Download the free PDF guide](./latex-formatting-guide.pdf)**
+Covers:
+- Word to LaTeX and DOCX to LaTeX conversion (Pandoc workflow + manual fixes)
+- PDF to LaTeX conversion (Mathpix, Nougat, hybrid approach)
+- Journal templates: IEEEtran, elsarticle (Elsevier), svjour3 / LNCS (Springer), acmart (ACM), MDPI
+- PhD and Masters thesis formatting in LaTeX
+- The 10 most common LaTeX compilation errors — exact messages, causes, fixes
+- BibTeX and BibLaTeX bibliography management
+- Submitting to Elsevier Editorial Manager, ScholarOne, and arXiv without errors
+
+📄 **[Download the free PDF guide](https://github.com/The-Latex-Lab/word-to-latex/blob/main/latex-formatting-guide.pdf)**
 
 ---
 
