@@ -67,7 +67,7 @@ If you'd rather have an expert handle the conversion, **[TheLatexLab.com](https:
 - **Thesis Pack** — Complete PhD/Masters thesis formatting with university compliance guaranteed.
 - **Build Doctor** — LaTeX compilation error resolution and submission system troubleshooting.
 
-📧 [help.thelatexlab@gmail.com](mailto:help.thelatexlab@gmail.com)
+📧 [help@thelatexlab.com](mailto:help@thelatexlab.com)
 
 ---
 
