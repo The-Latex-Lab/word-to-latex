@@ -59,13 +59,25 @@ This guide assumes you know what LaTeX is and have compiled at least one documen
 
 ---
 
-## Professional LaTeX Services
+## Professional LaTeX Services by TheLaTeXLab
 
-If you'd rather have an expert handle the conversion, **[TheLaTeXLab.com](https://thelatexlab.com)** offers:
+**[TheLaTeXLab.com](https://thelatexlab.com)** offers:
 
-- **Paper Pack** — Word/PDF to submission-ready LaTeX for any journal. 72-hour delivery.
-- **Thesis Pack** — Complete PhD/Masters thesis formatting with university compliance guaranteed.
-- **Build Doctor** — LaTeX compilation error resolution and submission system troubleshooting.
+FOR RESEARCHERS AND STUDENTS
+
+- [Word to LaTeX Conversion](https://thelatexlab.com/word-to-latex/) - Your Word paper converted to LaTeX that compiles, with equations, tables, figures, and a BibTeX bibliography, in your journal's template if needed. From $149.
+- [PDF to LaTeX Conversion](https://thelatexlab.com/pdf-to-latex/) - Digital or scanned PDFs rebuilt as editable LaTeX by a LaTeX specialist, including every equation. From $149 for digital PDFs and $249 for scanned PDFs.
+- [Journal Formatting](https://thelatexlab.com/journal-formatting-services/) - Your manuscript formatted to the journal's LaTeX class and author guidelines: Springer Nature, Elsevier, IEEE, ACM, MDPI, Wiley, arXiv, and more. From $149 in LaTeX, or $99 in Word.
+- [Thesis and Dissertation Formatting](https://thelatexlab.com/thesis-latex-formatting/) - Your thesis in your university's LaTeX template and graduate school rules, including theses by publication. From $599.
+- [LaTeX Typesetting](https://thelatexlab.com/latex-typesetting-services/) - Camera-ready conference papers for LNCS, IEEE, and ACM, and books, from text-led books to technical books full of equations and code. From $149 for papers and $499 for books.
+
+FOR UNIVERSITIES, PUBLISHERS, LABS, AND COMPANIES
+
+- [Accessible University Templates](https://thelatexlab.com/latex-thesis-template-ada-wcag/) - Thesis, dissertation, and course templates rebuilt to meet ADA Title II and WCAG 2.1 AA, plus remediation of published PDFs. We are building the LaTeX thesis template for Purdue University.
+- [Publisher Services](https://thelatexlab.com/publisher-services/) - LaTeX typesetting of articles, issues, and proceedings, JATS XML conversion, and accessible PDF/UA-2 and HTML output.
+- [Class Files and Author Templates]([https://thelatexlab.com](https://thelatexlab.com/latex-template-service-for-publishers/)) - Journal, proceedings, and book-series class files and Overleaf author templates built to your house style.
+- [Custom LaTeX Templates](https://thelatexlab.com/latex-template-development/)- Templates for research labs, companies, and authors: reports, documentation, books, and course materials.
+- [LaTeX Accessibility](https://thelatexlab.com/latex-accessibility-services/) - Tagged PDF/UA-2 and HTML output, alt text, MathML, PDF remediation, and accessible Beamer slides.
 
 📧 [help@thelatexlab.com](mailto:help@thelatexlab.com)
 
