@@ -75,7 +75,7 @@ FOR UNIVERSITIES, PUBLISHERS, LABS, AND COMPANIES
 
 - [Accessible University Templates](https://thelatexlab.com/latex-thesis-template-ada-wcag/) - Thesis, dissertation, and course templates rebuilt to meet ADA Title II and WCAG 2.1 AA, plus remediation of published PDFs. We are building the LaTeX thesis template for Purdue University.
 - [Publisher Services](https://thelatexlab.com/publisher-services/) - LaTeX typesetting of articles, issues, and proceedings, JATS XML conversion, and accessible PDF/UA-2 and HTML output.
-- [Class Files and Author Templates]([https://thelatexlab.com](https://thelatexlab.com/latex-template-service-for-publishers/)) - Journal, proceedings, and book-series class files and Overleaf author templates built to your house style.
+- [Class Files and Author Templates](https://thelatexlab.com/latex-template-service-for-publishers/) - Journal, proceedings, and book-series class files and Overleaf author templates built to your house style.
 - [Custom LaTeX Templates](https://thelatexlab.com/latex-template-development/)- Templates for research labs, companies, and authors: reports, documentation, books, and course materials.
 - [LaTeX Accessibility](https://thelatexlab.com/latex-accessibility-services/) - Tagged PDF/UA-2 and HTML output, alt text, MathML, PDF remediation, and accessible Beamer slides.
 
