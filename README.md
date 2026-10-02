@@ -61,7 +61,7 @@ This guide assumes you know what LaTeX is and have compiled at least one documen
 
 ## Professional LaTeX Services
 
-If you'd rather have an expert handle the conversion, **[TheLatexLab.com](https://thelatexlab.com)** offers:
+If you'd rather have an expert handle the conversion, **[TheLaTeXLab.com](https://thelatexlab.com)** offers:
 
 - **Paper Pack** — Word/PDF to submission-ready LaTeX for any journal. 72-hour delivery.
 - **Thesis Pack** — Complete PhD/Masters thesis formatting with university compliance guaranteed.
